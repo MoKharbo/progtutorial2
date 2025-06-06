@@ -15,3 +15,11 @@ Mijn speler kan nu bewegen naar links en rechts en kan springen met spatie.
 ![les2Progtutorial2](https://github.com/user-attachments/assets/6e957f01-c754-4f50-a5d8-50fd618b803f)
 
 code: https://github.com/MoKharbo/progtutorial2/blob/main/Assets/Scripts/PlayerControl.cs
+
+## Timed Muntjacht.
+
+Mijn speler kan munten oppakken binnen 60 seconden anders verlies je.
+
+![les3progtutorial2](https://github.com/user-attachments/assets/b3b8d8d7-ae44-4a7c-8c30-b49490ba0f62)
+
+code: https://github.com/MoKharbo/progtutorial2/blob/main/Assets/Scripts/GameManager.cs
