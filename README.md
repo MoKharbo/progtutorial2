@@ -33,3 +33,13 @@ Als ik op spatie click dan verandert de scene en ik kan bewegen
 code: https://github.com/MoKharbo/progtutorial2/blob/main/Assets/Scripts/PlayerController2.cs
 
 code: https://github.com/MoKharbo/progtutorial2/blob/main/Assets/Scripts/SceneSwitcher.cs
+
+## Gestructureerde Muntenjager
+
+ik kan coins oppakken en een score bijhouden
+
+![dfgbhmjgfvvcfgh](https://github.com/user-attachments/assets/6c0b6280-df13-45c1-9ef0-fca5253c114d)
+
+code: https://github.com/MoKharbo/progtutorial2/blob/main/Assets/Scripts/PlayerMove.cs
+
+code: https://github.com/MoKharbo/progtutorial2/blob/main/Assets/Scripts/ScoreManager.cs
