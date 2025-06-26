@@ -43,3 +43,11 @@ ik kan coins oppakken en een score bijhouden
 code: https://github.com/MoKharbo/progtutorial2/blob/main/Assets/Scripts/PlayerMove.cs
 
 code: https://github.com/MoKharbo/progtutorial2/blob/main/Assets/Scripts/ScoreManager.cs
+
+## Volger
+
+ik heb een sphere toegevoegd die je volgt
+
+![gtredfvgrtef](https://github.com/user-attachments/assets/024c8ee3-f2be-4bae-af07-ffd084af853a)
+
+code: https://github.com/MoKharbo/progtutorial2/blob/main/Assets/Scripts/Followandreturn.cs
